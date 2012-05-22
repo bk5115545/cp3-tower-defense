@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+GTGE-Author: Paulus Tuerah
+Created-By: 1.4.1 (Sun Microsystems Inc.)
+Main-Class: Main.Main
+
